@@ -1,5 +1,7 @@
-sound = "Squawk!"
-puts "the the parrot goes #{sound}."
+def parrot(phrase = "Squawk!")
+  puts phrase
+  return phrase
 end
+
  # Create method `parrot` that outputs a given phrase and
 # returns the phrase
