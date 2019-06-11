@@ -1,4 +1,4 @@
-def parrot_sound(sound = "Squawk!")
+def parrot(phrase = "Squawk!")
   "{sound}"
 end
 
